@@ -1,0 +1,9 @@
+hi,
+good morning
+
+	sub: about regarding adding file into clean branch
+
+as per subjct we added file into clean branch 
+
+thank you,
+...
